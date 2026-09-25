@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="iatt.png" width="673" height="221" alt="Logo">
+</p>
+
 ## About SCP-MH and IATT 
 
 SCP Miraheze CN is an unofficial SCP Wiki in Miraheze. Interface Administration and Technical Support Team, aka **IATT**. A subteam of SCP Miraheze CN Staff Team.
